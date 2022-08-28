@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<a href="https://app.daily.dev/beshoyrmansour"><img src="https://api.daily.dev/devcards/df8e07966a06462c8c73de749b6f67f9.png?r=6mv" width="400" alt="Beshoy Mansour's Dev Card"/></a>
 <!--
 **beshoyrmansour/beshoyrmansour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
